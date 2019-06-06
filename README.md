@@ -1,5 +1,7 @@
 # Project Overview: #
 
+A live version of this project can be found at: http://54.86.132.194/
+
 Neighborhood is an implementation of Zillow's property view "Neighborhood" section from scratch. The app consists of three distinct sections:
 
 1) Neighborhood Information - an informational section with the market statistics, estimates and general information
